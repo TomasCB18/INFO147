@@ -1,1 +1,2 @@
-# INFO147 Computacion cientifica con python
+# INFO147 
+Computacion cientifica con python
